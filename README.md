@@ -1,7 +1,7 @@
 # Superstore Profit & Sales Dashboard
 
 ## Overview
-This project analyzes a company’s performance over several years using the Superstore dataset. The primary goal is to identify periods of strong and weak performance, enabling us to accentuate the company’s strengths while addressing areas for improvement.
+This project analyzes a company’s performance over several years using the Superstore dataset. The primary goal is to identify periods of strong and weak performance, enabling stakeholders to make better informed business decisions.
 
 To fully interact with the dashboard, check it out on [Tableau Public!](https://public.tableau.com/app/profile/colby.rood/viz/super_store_analysis_17549266090400/Dashboard1)
 
